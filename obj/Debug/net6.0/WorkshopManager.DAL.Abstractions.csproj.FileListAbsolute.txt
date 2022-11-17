@@ -1,0 +1,12 @@
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\bin\Debug\net6.0\WorkshopManager.DAL.Abstractions.deps.json
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\bin\Debug\net6.0\WorkshopManager.DAL.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\bin\Debug\net6.0\WorkshopManager.DAL.Abstractions.pdb
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.csproj.AssemblyReference.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.AssemblyInfoInputs.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.AssemblyInfo.cs
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\refint\WorkshopManager.DAL.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\WorkshopManager.DAL.Abstractions.pdb
+D:\Projects\Repos\WorkshopManager\WorkshopManager.DAL.Abstractions\obj\Debug\net6.0\ref\WorkshopManager.DAL.Abstractions.dll

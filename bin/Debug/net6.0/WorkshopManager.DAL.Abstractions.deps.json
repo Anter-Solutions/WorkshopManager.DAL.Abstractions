@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkshopManager.DAL.Abstractions/1.0.0": {
+        "runtime": {
+          "WorkshopManager.DAL.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkshopManager.DAL.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
