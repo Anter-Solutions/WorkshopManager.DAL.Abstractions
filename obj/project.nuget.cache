@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5SpT+TOhA/tFInaxopw2e6fuhnFdirgk/X310ZjaKOoWZlowARGE6OW4966CJlCvYTmPnOTrxrXRqn7J8Eupnw==",
+  "dgSpecHash": "J7UYTvydAdjkCbvZHds9qiwCoEZ2nXghcZKiG26bjfgmDWnJYsGtpwX0TK+DjwJnqMU4KjY5fBJpLX+fhVt00g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.DAL.Abstractions\\WorkshopManager.DAL.Abstractions.csproj",
+  "projectFilePath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.DAL.Abstractions\\WorkshopManager.DAL.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
